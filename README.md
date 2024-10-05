@@ -34,3 +34,4 @@ The server works best if it's on the same server as the Jellyfin server.
 ## Other
 
 This server can work with other clients and is not limited to only using the Streamyfin client. Though support needs to be added to the clients by the maintainer. 
+ 
